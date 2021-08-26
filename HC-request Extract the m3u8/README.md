@@ -46,7 +46,7 @@ GET http://www.antnesswcm.com/happy.m3u8 HTTP/1.1
 提取出 http://www.antnesswcm.com/happy.m3u8 地址并保存到 HttpCanary/outfile.txt 文件(默认就是)  
 保存地址在程序结束后也会生成哒~  
 
-脚本注释写的很全啦~有需求可以自己改，或者求助me~  
+脚本注释写的很全啦　　　有需求可以自己改，或者求助me  
 酷安: @王糙米 邮箱: antnesswcw@gmail.com  
 
 ===========================================================================================  
